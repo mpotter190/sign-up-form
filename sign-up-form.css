@@ -1,0 +1,26 @@
+body {
+    display: flex;
+}
+
+form {
+    display: flex;
+    width: 100%;
+}
+
+.sidebar {
+    width: 200px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.top {
+    display: flex;
+}
+
+.middle {
+    display: flex;
+}
